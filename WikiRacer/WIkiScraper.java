@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /*
- * AUTHORS: Mason Holter/Tyler Conklin
+ * AUTHORS: Mason Holter/Tyler C.
  * FILE: WikiScraper.java
  * PURPOSE: This program defines the WikiScraper function, which compiles all
  * hyperlinked references to other Wikipedia pages, given a name of a valid
