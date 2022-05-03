@@ -3,8 +3,8 @@
 |       Author:  Mason Holter
 |
 |       Course:  CSc 245
-|   Instructor:  L. McCann
-|     Due Date:  April 8, 2022 15:05
+|   Instructor:  L. M.
+|     Due Date:  April 8
 |
 |  Description:  The purpose of this function is to demonstrate a direct proof
 |				 of the Fundamental Theorem of Arithmetic. Achieved through 
